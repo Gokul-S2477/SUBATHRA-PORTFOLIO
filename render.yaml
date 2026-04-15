@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: subathra-portfolio
+    runtime: static
+    buildCommand: ""
+    staticPublishPath: .
